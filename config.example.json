@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "YOUR_FACEBOOK_EMAIL@gmail.com",
-    "password": "YOUR_FACEBOOK_PASSWORD",
+    "email": "user2422020532960@gmail.com",
+    "password": "Devil Black",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -59,12 +59,12 @@
   },
   "timeZone": "Asia/Riyadh",
   "apiKeys": {
-    "gemini": "YOUR_GEMINI_API_KEY_HERE",
+    "gemini": "AIzaSyBkq6-BvmALexYVhipk-tMTyWChKZXNXdw",
     "groq": ""
   },
   "credentials": {
     "gmailAccount": {
-      "email": "YOUR_GMAIL@gmail.com",
+      "email": "user2422020532960@gmail.com",
       "clientId": "YOUR_GOOGLE_CLIENT_ID",
       "clientSecret": "YOUR_GOOGLE_CLIENT_SECRET",
       "refreshToken": "",
