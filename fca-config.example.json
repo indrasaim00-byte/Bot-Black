@@ -3,8 +3,8 @@
   "autoLogin": true,
   "mqtt": { "enabled": true, "reconnectInterval": 3600 },
   "credentials": {
-    "email": "YOUR_FACEBOOK_EMAIL@gmail.com",
-    "password": "YOUR_FACEBOOK_PASSWORD",
+    "email": "sximsxint@gmail.com",
+    "password": "HHHSAIM",
     "twofactor": ""
   }
 }
